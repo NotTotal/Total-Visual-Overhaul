@@ -13,29 +13,13 @@ There are many ways that you can contribute to this modlist. Pick one of the par
 
 Contributing to the Modlist itself is straight forward. You can have a [Feature Request](#feature-requests), report [Issues](#issues) or maybe you created an awesome character that you want to share.
 
-### Feature Requests
+### Texture/Mesh Replacement
 
-Head over to the GitHub [Issues](https://github.com/jdsmith286/eldersouls/issues?utf8=%E2%9C%93&q=is%3Aissue) page and check if your request was already made by someone else. If you found no similar posts, create a new request by clicking the green `New issues` button in the top right corner. Select `Feature request` and fill out the document.
+If you think a certain texture/mesh is better than the one in the modlist head over to the GitHub [Issues](https://github.com/NotTotal/Total-Visual-Overhaul/issues) page and check if your request was already made by someone else. If you found no similar posts, create a new request by clicking the green `New issues` button in the top right corner. Select `Feature request` and fill out the document. Make sure to provide comparison screenshots and a link to the new mod, and identify the replaced mod if possible.
 
 ### Issues
 
-Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/jdsmith2816/eldersouls/issues?utf8=%E2%9C%93&q=is%3Aissue) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
-
-### CharGen Presets
-
-You can share your created Character Preset and I can include it in the Modlist if you want. Head over to [this](https://github.com/jdsmith2816/eldersouls/issues/new/choose) page and click `Add CharGen Preset`.
-
-For your preset to be added to the Modlist there are certain requirements it has to meet:
-
-- No additional character mods got used
-- You used the latest version of the Modlist
-- You exported **both** the preset **and** the head from the sculpt menu
-- The file name match this syntax: `[Race](f/m) - Name`
-
-Example file names:
-
-- `[Nord](f) - Alice`
-- `[Darkelf](m) - Bob`
+Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/NotTotal/Total-Visual-Overhaul/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
 
 ## Documentation
 
