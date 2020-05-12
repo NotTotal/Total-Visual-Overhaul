@@ -192,11 +192,13 @@ Picturesque
 
 # Listmaker
 
-Listmaker is an extremely useful UPF patcher for the mass distribution of weapons through leveled lists and NPC records. Listmaker replaces every regular unenchanted vanilla weapon record with vLitemtypematerial leveled lists in leveled lists and NPCs. This means that an NPC that previously had an iron sword will now have vLitemSwordIron in its place. These leveled lists contain the original item as a base as well as whatever you put inside of them. The source leveled lists can be found in listmakertemplate.esp
+Listmaker, created by JDsmith2816, is an extremely useful UPF patcher for the mass distribution of weapons through leveled lists and NPC records. Listmaker replaces every regular unenchanted vanilla weapon record with vLitemtypematerial leveled lists in leveled lists and NPCs. This means that an NPC that previously had an iron sword will now have vLitemSwordIron in its place. These leveled lists contain the original item as a base as well as whatever you put inside of them. The source leveled lists can be found in listmakertemplate.esp
 
 If you want to patch your weapon mods into the listmaker system the first thing you should do is normalize every weapon to an appropriate vanilla weapon. This will ensure that there are no strange power jumps, inconsistency, or significant economy problems due to the spread of new weapons. 
 
 Once you have normalized the weapons you've added to your modlist, go into xedit and for every weapon mod you've added copy as override the base listmaker template into a new plugin. It does not matter what you name the plugin. Place every weapon you want to have spawn in the place of the base weapon in the leveled list. If you have more than one weapon mod adding weapons to the same leveled list I suggest using mator smash **only on those listmaker plugins** to quickly merge them together. Remember to check the output of mator smash at the end to ensure there are no strange results. You can then merge the result or leave the plugins alone.
+
+Once you're done, run the listmaker patcher. Your modded weapons should now appear all throughout the game on modded and vanilla content.
 
 ## Creating your Character
 
