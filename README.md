@@ -23,6 +23,7 @@ A visual only Wabbajack modlist for Skyrim SE
   - [NPC Retextures](#npc-retextures)
   - [Weather](#weather)
   - [ENB Suggestions](#enb-suggestions)
+  - [Listmaker](#listmaker)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
 - [Tweaking Performance](#tweaking-performance)
@@ -190,7 +191,7 @@ Cathedral
 Picturesque
 - [Picturesque ENB](https://www.nexusmods.com/skyrimspecialedition/mods/32364) - you **must** use this enb with picturesque
 
-# Listmaker
+### Listmaker
 
 Listmaker, created by JDsmith2816, is an extremely useful UPF patcher for the mass distribution of weapons through leveled lists and NPC records. Listmaker replaces every regular unenchanted vanilla weapon record with vLitemtypematerial leveled lists in leveled lists and NPCs. This means that an NPC that previously had an iron sword will now have vLitemSwordIron in its place. These leveled lists contain the original item as a base as well as whatever you put inside of them. The source leveled lists can be found in listmakertemplate.esp
 
