@@ -225,6 +225,9 @@ Will you make a version of this for lower end machines?
 I think this texture/mesh/mod is better than the one used in tvo
 - file a github issue with comparison screenshots and a link to the mod
 
+Can I use this to build a wabbajack modlist?
+- Yeah sure go ahead, just give me credit in some form.
+
 ## Tweaking Performance
 
 My Setup:
