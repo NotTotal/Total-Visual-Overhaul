@@ -91,11 +91,8 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases).
 
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
-
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack
 
 #### Downloading and Installing
 
@@ -103,7 +100,7 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack
 2. Load the Modlist from Disk
-3. Adjust the download and installation paths
+3. Set TVO to install to X:\Total Visual Overhaul and download to X:\Total Visual Overhaul\Downloads. Your downloads folder can be on a separate drive to save space but wabbajack's install speed will be limited to your slowest drive. 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 
