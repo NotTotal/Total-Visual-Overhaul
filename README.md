@@ -207,6 +207,9 @@ Simply step up to the statue of mara and choose a start.
 
 ## FAQ
 
+Why are the weathers unticked at the bottom of mo2
+- They're supposed to be in the separators a but a wabbajack bug puts them at the bottom of mo2. Just move them to the appropriate separator if you're using them.
+
 Is x mod compatible with this list?
 - I have no idea, check it in xEdit
 
