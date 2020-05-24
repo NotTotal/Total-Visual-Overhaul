@@ -155,7 +155,7 @@ The priority looks like this (same order as MO2, the ones at the bottom overwrit
 9. Seranaholic
 10. Valericaholic
 
-If you the load order of any of these mods in mo2 **you must change the plugin load order** as well or there will be black face bugs. If you add any additional NPC retexture mods you must add the plugin name to NPC Visual Transfer in zEdit or there will be black face bugs.
+If you change the load order of any of these mods in mo2 **you must change the plugin load order** as well or there will be black face bugs. If you add any additional NPC retexture mods you must add the plugin name to NPC Visual Transfer in zEdit or there will be black face bugs.
 
 
 ### Weather
