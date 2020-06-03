@@ -166,7 +166,7 @@ TVO comes with three different weather mod choices, Obsidian, Cathedral, and Pic
 
 [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) would be clearly the best weather mod on SE if it wasn't such a pain in the ass to make an ENB for. The enb options for Cathedral are good, it just does not have the wide range of choices that Obsidian does. Cathedral fixed the horizon seam issue that Obsidian has.
 
-[Picturesque](https://www.nexusmods.com/skyrimspecialedition/mods/32364) is an incredibly good weather/enb combo mod. If you want an effects heavy experience similar to that found in LE this is about as close as you'll get in SE. 
+[Picturesque](https://www.nexusmods.com/skyrimspecialedition/mods/32364) is an incredibly good weather/enb combo mod. If you want an effects heavy experience similar to that found in LE this is about as close as you'll get in SE. Picturesque as an enb-weather combo uses game settings for some of its enb setttings, be prepared to adjust your game inis to fine tune brightness.
 
 
 ### ENB Suggestions
