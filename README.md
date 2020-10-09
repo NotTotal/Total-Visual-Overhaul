@@ -146,9 +146,8 @@ TVO comes with JK's Skyrim, Cities of the North, and Obscures College of Winterh
 
 The priority looks like this (same order as MO2, the ones at the bottom overwrites the ones at the top):
 
-1. Ethereal Elven Overhaul
-2. Men of Winter
-3. Metal Sabers Beautiful Orcs of Skyrim
+1. High Poly NPC Overhaul
+2. Ethereal Elven Overhaul
 4. Kalilies NPCs
 5. Pandorable's NPCs
 6. Pandorable's NPCs - Dragonborn
@@ -166,7 +165,7 @@ TVO comes with three different weather mod choices, Obsidian, Cathedral, and Pic
 
 [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125) provides sharp, ominous, and atmospheric weathers that accentuate proximal detail while obscuring distant landscapes with mysterious fogs. It has the support for the widest range of ENBs and is in my opinion the best weather mod once merged together with all of its addons. However, the horizon seam on Obsidian is not great.
 
-[Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) would be clearly the best weather mod on SE if it wasn't such a pain in the ass to make an ENB for. The enb options for Cathedral are good, it just does not have the wide range of choices that Obsidian does. Cathedral fixed the horizon seam issue that Obsidian has.
+[Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) would be clearly the best weather mod on SE if it wasn't such a pain in the ass to make an ENB for. The enb options for Cathedral are good, it just does not have the wide range of choices that Obsidian does. Cathedral fixed the horizon seam issue that Obsidian has. Now that Rudy for CW is a thing, CW is the default weather for TVO and Rudy CW the enb that I personally use
 
 [Picturesque](https://www.nexusmods.com/skyrimspecialedition/mods/32364) is an incredibly good weather/enb combo mod. If you want an effects heavy experience similar to that found in LE this is about as close as you'll get in SE. Picturesque as an enb-weather combo uses game settings for some of its enb setttings, be prepared to adjust your game inis to fine tune brightness.
 
@@ -183,6 +182,7 @@ Obsidian
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 Cathedral
+- [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 - [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Lucid ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27481)
@@ -190,15 +190,9 @@ Cathedral
 Picturesque
 - [Picturesque ENB](https://www.nexusmods.com/skyrimspecialedition/mods/32364) - you **must** use this enb with picturesque
 
-### Listmaker
+### Synthesis
 
-Listmaker, created by JDsmith2816, is an extremely useful UPF patcher for the mass distribution of weapons through leveled lists and NPC records. Listmaker replaces every regular unenchanted vanilla weapon record with vLitemtypematerial leveled lists in leveled lists and NPCs. This means that an NPC that previously had an iron sword will now have vLitemSwordIron in its place. These leveled lists contain the original item as a base as well as whatever you put inside of them. The source leveled lists can be found in listmakertemplate.esp
-
-If you want to patch your weapon mods into the listmaker system the first thing you should do is normalize every weapon to an appropriate vanilla weapon. This will ensure that there are no strange power jumps, inconsistency, or significant economy problems due to the spread of new weapons. 
-
-Once you have normalized the weapons you've added to your modlist, go into xedit and for every weapon mod you've added copy as override the base listmaker the relevant templates into a new plugin. It does not matter what you name the plugin. Place every weapon you want to have spawn in the place of the base weapon in the corresponding leveled list. If you have more than one weapon mod adding weapons to the same leveled list I suggest using mator smash **only on those listmaker plugins** to quickly merge them together. Remember to check the output of mator smash at the end to ensure there are no strange results. You can then merge the result or leave the plugins alone.
-
-Once you're done, run the listmaker patcher. Your modded weapons should now appear all throughout the game on modded and vanilla content.
+At this time Synthesis is still in beta and thus a little rough around the edges in terms of end user experience. Due to the complexity of getting it to work and rapid development pace nognog is at I will not provide instructions here on how to get synthesis to work properly until things stablize. If you need to rerun synthesis ask in #tvo-support and someone will guide you through the steps beyond just hitting run.
 
 ## Creating your Character
 
