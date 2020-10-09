@@ -29,6 +29,7 @@ Added
 - Jump Behavior Overhaul
 - Rudy HQ - More Lights for ENB - Glowing Mushrooms
 - Rudy HQ - More Lights for ENB - Daedric Weapons
+- Superior Lore Friendly Hair
 
 Removed
 - Artesian Cloaks
