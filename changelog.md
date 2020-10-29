@@ -1,3 +1,16 @@
+1.3
+
+Added
+- Better Browner Bread 4k (actually 2k)
+- Hvergelmir Brows for HPH
+- Water for ENB
+- Wives of Skyrim High Poly Heads HD Makeup
+
+Removed
+- Realistic Water 2
+- Bijin Wives
+- Bijin AIO
+
 1.2
 
 Major
