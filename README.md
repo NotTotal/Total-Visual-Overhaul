@@ -254,4 +254,4 @@ See [Contributing](CONTRIBUTING.md).
 
 ## Changelog
 
-See [Changelog](CHANGELOG.md).
+See [Changelog](changelog.md).
