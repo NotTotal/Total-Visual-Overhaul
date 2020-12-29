@@ -219,6 +219,10 @@ I think this texture/mesh/mod is better than the one used in tvo
 Can I use this to build a wabbajack modlist?
 - Yeah sure go ahead, just give me credit in some form.
 
+How do I prevent my headgear from being unequiped out of combat?
+- Modify the Dynamic Equipment Manager JSON or disable it in MO2
+
+
 ## Tweaking Performance
 
 My Setup:
