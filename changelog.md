@@ -1,3 +1,13 @@
+1.4
+
+Regenerated Sound Patch
+Updated Mods
+Added
+- Skyrim Outfit System
+
+Removed
+- Dynamic Equipment Manager
+
 1.3
 
 Added
