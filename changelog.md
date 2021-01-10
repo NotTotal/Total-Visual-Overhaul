@@ -1,7 +1,9 @@
 1.4
 
 Regenerated Sound Patch
+
 Updated Mods
+
 Added
 - Skyrim Outfit System
 
